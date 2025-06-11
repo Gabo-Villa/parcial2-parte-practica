@@ -1,0 +1,225 @@
+EventSourceName,Provider,ProviderGuid,Level,Keywords,Channel,Computer,TimeCreated,TimeGenerated,EventRecordID,EventID,Message,EventData,Task,TargetUserName,TargetDomainName,TargetSid,SubjectUserSid,SubjectUserName,SubjectDomainName,SubjectLogonId,CallerProcessId,CallerProcessName,Workstation
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302693,4798,"Se enumeró la pertenencia a grupos locales de un usuario.
+
+Firmante:
+	Id. de seguridad:		S-1-5-18
+	Nombre de cuenta:		LAPTOP-NNQ5RT1T$
+	Dominio de cuenta:		WORKGROUP
+	Id. de inicio de sesión:		0x3E7
+
+Usuario:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-500
+	Nombre de cuenta:		Administrador
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+
+Información de proceso:
+	Id. de proceso:		0x26b8
+	Nombre de proceso:		C:\Windows\System32\svchost.exe","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""TargetUserName"">Administrador</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetSid"">S-1-5-21-1272247940-4039150992-2221954607-500</Data><Data Name=""SubjectUserSid"">S-1-5-18</Data><Data Name=""SubjectUserName"">LAPTOP-NNQ5RT1T$</Data><Data Name=""SubjectDomainName"">WORKGROUP</Data><Data Name=""SubjectLogonId"">0x3e7</Data><Data Name=""CallerProcessId"">0x26b8</Data><Data Name=""CallerProcessName"">C:\Windows\System32\svchost.exe</Data></EventData>",13824,Administrador,LAPTOP-NNQ5RT1T,S-1-5-21-1272247940-4039150992-2221954607-500,S-1-5-18,LAPTOP-NNQ5RT1T$,WORKGROUP,0x3e7,0x26b8,C:\Windows\System32\svchost.exe,
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302694,4798,"Se enumeró la pertenencia a grupos locales de un usuario.
+
+Firmante:
+	Id. de seguridad:		S-1-5-18
+	Nombre de cuenta:		LAPTOP-NNQ5RT1T$
+	Dominio de cuenta:		WORKGROUP
+	Id. de inicio de sesión:		0x3E7
+
+Usuario:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-503
+	Nombre de cuenta:		DefaultAccount
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+
+Información de proceso:
+	Id. de proceso:		0x26b8
+	Nombre de proceso:		C:\Windows\System32\svchost.exe","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""TargetUserName"">DefaultAccount</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetSid"">S-1-5-21-1272247940-4039150992-2221954607-503</Data><Data Name=""SubjectUserSid"">S-1-5-18</Data><Data Name=""SubjectUserName"">LAPTOP-NNQ5RT1T$</Data><Data Name=""SubjectDomainName"">WORKGROUP</Data><Data Name=""SubjectLogonId"">0x3e7</Data><Data Name=""CallerProcessId"">0x26b8</Data><Data Name=""CallerProcessName"">C:\Windows\System32\svchost.exe</Data></EventData>",13824,DefaultAccount,LAPTOP-NNQ5RT1T,S-1-5-21-1272247940-4039150992-2221954607-503,S-1-5-18,LAPTOP-NNQ5RT1T$,WORKGROUP,0x3e7,0x26b8,C:\Windows\System32\svchost.exe,
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302695,4798,"Se enumeró la pertenencia a grupos locales de un usuario.
+
+Firmante:
+	Id. de seguridad:		S-1-5-18
+	Nombre de cuenta:		LAPTOP-NNQ5RT1T$
+	Dominio de cuenta:		WORKGROUP
+	Id. de inicio de sesión:		0x3E7
+
+Usuario:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de cuenta:		gabri
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+
+Información de proceso:
+	Id. de proceso:		0x26b8
+	Nombre de proceso:		C:\Windows\System32\svchost.exe","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""TargetUserName"">gabri</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserSid"">S-1-5-18</Data><Data Name=""SubjectUserName"">LAPTOP-NNQ5RT1T$</Data><Data Name=""SubjectDomainName"">WORKGROUP</Data><Data Name=""SubjectLogonId"">0x3e7</Data><Data Name=""CallerProcessId"">0x26b8</Data><Data Name=""CallerProcessName"">C:\Windows\System32\svchost.exe</Data></EventData>",13824,gabri,LAPTOP-NNQ5RT1T,S-1-5-21-1272247940-4039150992-2221954607-1001,S-1-5-18,LAPTOP-NNQ5RT1T$,WORKGROUP,0x3e7,0x26b8,C:\Windows\System32\svchost.exe,
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302696,4798,"Se enumeró la pertenencia a grupos locales de un usuario.
+
+Firmante:
+	Id. de seguridad:		S-1-5-18
+	Nombre de cuenta:		LAPTOP-NNQ5RT1T$
+	Dominio de cuenta:		WORKGROUP
+	Id. de inicio de sesión:		0x3E7
+
+Usuario:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-500
+	Nombre de cuenta:		Administrador
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+
+Información de proceso:
+	Id. de proceso:		0x26b8
+	Nombre de proceso:		C:\Windows\System32\svchost.exe","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""TargetUserName"">Administrador</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetSid"">S-1-5-21-1272247940-4039150992-2221954607-500</Data><Data Name=""SubjectUserSid"">S-1-5-18</Data><Data Name=""SubjectUserName"">LAPTOP-NNQ5RT1T$</Data><Data Name=""SubjectDomainName"">WORKGROUP</Data><Data Name=""SubjectLogonId"">0x3e7</Data><Data Name=""CallerProcessId"">0x26b8</Data><Data Name=""CallerProcessName"">C:\Windows\System32\svchost.exe</Data></EventData>",13824,Administrador,LAPTOP-NNQ5RT1T,S-1-5-21-1272247940-4039150992-2221954607-500,S-1-5-18,LAPTOP-NNQ5RT1T$,WORKGROUP,0x3e7,0x26b8,C:\Windows\System32\svchost.exe,
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302697,4798,"Se enumeró la pertenencia a grupos locales de un usuario.
+
+Firmante:
+	Id. de seguridad:		S-1-5-18
+	Nombre de cuenta:		LAPTOP-NNQ5RT1T$
+	Dominio de cuenta:		WORKGROUP
+	Id. de inicio de sesión:		0x3E7
+
+Usuario:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-503
+	Nombre de cuenta:		DefaultAccount
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+
+Información de proceso:
+	Id. de proceso:		0x26b8
+	Nombre de proceso:		C:\Windows\System32\svchost.exe","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""TargetUserName"">DefaultAccount</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetSid"">S-1-5-21-1272247940-4039150992-2221954607-503</Data><Data Name=""SubjectUserSid"">S-1-5-18</Data><Data Name=""SubjectUserName"">LAPTOP-NNQ5RT1T$</Data><Data Name=""SubjectDomainName"">WORKGROUP</Data><Data Name=""SubjectLogonId"">0x3e7</Data><Data Name=""CallerProcessId"">0x26b8</Data><Data Name=""CallerProcessName"">C:\Windows\System32\svchost.exe</Data></EventData>",13824,DefaultAccount,LAPTOP-NNQ5RT1T,S-1-5-21-1272247940-4039150992-2221954607-503,S-1-5-18,LAPTOP-NNQ5RT1T$,WORKGROUP,0x3e7,0x26b8,C:\Windows\System32\svchost.exe,
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302698,4798,"Se enumeró la pertenencia a grupos locales de un usuario.
+
+Firmante:
+	Id. de seguridad:		S-1-5-18
+	Nombre de cuenta:		LAPTOP-NNQ5RT1T$
+	Dominio de cuenta:		WORKGROUP
+	Id. de inicio de sesión:		0x3E7
+
+Usuario:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de cuenta:		gabri
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+
+Información de proceso:
+	Id. de proceso:		0x26b8
+	Nombre de proceso:		C:\Windows\System32\svchost.exe","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""TargetUserName"">gabri</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserSid"">S-1-5-18</Data><Data Name=""SubjectUserName"">LAPTOP-NNQ5RT1T$</Data><Data Name=""SubjectDomainName"">WORKGROUP</Data><Data Name=""SubjectLogonId"">0x3e7</Data><Data Name=""CallerProcessId"">0x26b8</Data><Data Name=""CallerProcessName"">C:\Windows\System32\svchost.exe</Data></EventData>",13824,gabri,LAPTOP-NNQ5RT1T,S-1-5-21-1272247940-4039150992-2221954607-1001,S-1-5-18,LAPTOP-NNQ5RT1T$,WORKGROUP,0x3e7,0x26b8,C:\Windows\System32\svchost.exe,
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302699,4797,"Se ha realizado un intento de consultar la existencia de una contraseña en blanco para una cuenta.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de la cuenta:		gabri
+	Dominio de la cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Información adicional:
+	Estación de trabajo del llamador:	LAPTOP-NNQ5RT1T
+	Nombre de la cuenta de destino:	Administrador
+	Dominio de la cuenta de destino:	LAPTOP-NNQ5RT1T","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""Workstation"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetUserName"">Administrador</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data></EventData>",13824,Administrador,LAPTOP-NNQ5RT1T,,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,,,LAPTOP-NNQ5RT1T
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302700,4797,"Se ha realizado un intento de consultar la existencia de una contraseña en blanco para una cuenta.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de la cuenta:		gabri
+	Dominio de la cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Información adicional:
+	Estación de trabajo del llamador:	LAPTOP-NNQ5RT1T
+	Nombre de la cuenta de destino:	DefaultAccount
+	Dominio de la cuenta de destino:	LAPTOP-NNQ5RT1T","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""Workstation"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetUserName"">DefaultAccount</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data></EventData>",13824,DefaultAccount,LAPTOP-NNQ5RT1T,,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,,,LAPTOP-NNQ5RT1T
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302701,4797,"Se ha realizado un intento de consultar la existencia de una contraseña en blanco para una cuenta.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de la cuenta:		gabri
+	Dominio de la cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Información adicional:
+	Estación de trabajo del llamador:	LAPTOP-NNQ5RT1T
+	Nombre de la cuenta de destino:	Invitado
+	Dominio de la cuenta de destino:	LAPTOP-NNQ5RT1T","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""Workstation"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetUserName"">Invitado</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data></EventData>",13824,Invitado,LAPTOP-NNQ5RT1T,,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,,,LAPTOP-NNQ5RT1T
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302702,4797,"Se ha realizado un intento de consultar la existencia de una contraseña en blanco para una cuenta.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de la cuenta:		gabri
+	Dominio de la cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Información adicional:
+	Estación de trabajo del llamador:	LAPTOP-NNQ5RT1T
+	Nombre de la cuenta de destino:	WDAGUtilityAccount
+	Dominio de la cuenta de destino:	LAPTOP-NNQ5RT1T","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""Workstation"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetUserName"">WDAGUtilityAccount</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data></EventData>",13824,WDAGUtilityAccount,LAPTOP-NNQ5RT1T,,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,,,LAPTOP-NNQ5RT1T
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302703,4798,"Se enumeró la pertenencia a grupos locales de un usuario.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de cuenta:		gabri
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Usuario:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de cuenta:		gabri
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+
+Información de proceso:
+	Id. de proceso:		0x1ddc
+	Nombre de proceso:		C:\Windows\explorer.exe","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""TargetUserName"">gabri</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""CallerProcessId"">0x1ddc</Data><Data Name=""CallerProcessName"">C:\Windows\explorer.exe</Data></EventData>",13824,gabri,LAPTOP-NNQ5RT1T,S-1-5-21-1272247940-4039150992-2221954607-1001,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,0x1ddc,C:\Windows\explorer.exe,
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302704,4797,"Se ha realizado un intento de consultar la existencia de una contraseña en blanco para una cuenta.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de la cuenta:		gabri
+	Dominio de la cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Información adicional:
+	Estación de trabajo del llamador:	LAPTOP-NNQ5RT1T
+	Nombre de la cuenta de destino:	Administrador
+	Dominio de la cuenta de destino:	LAPTOP-NNQ5RT1T","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""Workstation"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetUserName"">Administrador</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data></EventData>",13824,Administrador,LAPTOP-NNQ5RT1T,,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,,,LAPTOP-NNQ5RT1T
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302705,4797,"Se ha realizado un intento de consultar la existencia de una contraseña en blanco para una cuenta.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de la cuenta:		gabri
+	Dominio de la cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Información adicional:
+	Estación de trabajo del llamador:	LAPTOP-NNQ5RT1T
+	Nombre de la cuenta de destino:	DefaultAccount
+	Dominio de la cuenta de destino:	LAPTOP-NNQ5RT1T","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""Workstation"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetUserName"">DefaultAccount</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data></EventData>",13824,DefaultAccount,LAPTOP-NNQ5RT1T,,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,,,LAPTOP-NNQ5RT1T
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302706,4797,"Se ha realizado un intento de consultar la existencia de una contraseña en blanco para una cuenta.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de la cuenta:		gabri
+	Dominio de la cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Información adicional:
+	Estación de trabajo del llamador:	LAPTOP-NNQ5RT1T
+	Nombre de la cuenta de destino:	Invitado
+	Dominio de la cuenta de destino:	LAPTOP-NNQ5RT1T","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""Workstation"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetUserName"">Invitado</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data></EventData>",13824,Invitado,LAPTOP-NNQ5RT1T,,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,,,LAPTOP-NNQ5RT1T
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302707,4797,"Se ha realizado un intento de consultar la existencia de una contraseña en blanco para una cuenta.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de la cuenta:		gabri
+	Dominio de la cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Información adicional:
+	Estación de trabajo del llamador:	LAPTOP-NNQ5RT1T
+	Nombre de la cuenta de destino:	WDAGUtilityAccount
+	Dominio de la cuenta de destino:	LAPTOP-NNQ5RT1T","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""Workstation"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetUserName"">WDAGUtilityAccount</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data></EventData>",13824,WDAGUtilityAccount,LAPTOP-NNQ5RT1T,,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,,,LAPTOP-NNQ5RT1T
+Microsoft-Windows-Security-Auditing,Microsoft-Windows-Security-Auditing,{54849625-5478-4994-a5ba-3e3b0328c30d},0,0x8020000000000000,Security,LAPTOP-NNQ5RT1T,5/13/25 22:48,5/14/25 3:48,302708,4798,"Se enumeró la pertenencia a grupos locales de un usuario.
+
+Firmante:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de cuenta:		gabri
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+	Id. de inicio de sesión:		0x1C56B3D
+
+Usuario:
+	Id. de seguridad:		S-1-5-21-1272247940-4039150992-2221954607-1001
+	Nombre de cuenta:		gabri
+	Dominio de cuenta:		LAPTOP-NNQ5RT1T
+
+Información de proceso:
+	Id. de proceso:		0x1ddc
+	Nombre de proceso:		C:\Windows\explorer.exe","<EventData xmlns=""http://schemas.microsoft.com/win/2004/08/events/event""><Data Name=""TargetUserName"">gabri</Data><Data Name=""TargetDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""TargetSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserSid"">S-1-5-21-1272247940-4039150992-2221954607-1001</Data><Data Name=""SubjectUserName"">gabri</Data><Data Name=""SubjectDomainName"">LAPTOP-NNQ5RT1T</Data><Data Name=""SubjectLogonId"">0x1c56b3d</Data><Data Name=""CallerProcessId"">0x1ddc</Data><Data Name=""CallerProcessName"">C:\Windows\explorer.exe</Data></EventData>",13824,gabri,LAPTOP-NNQ5RT1T,S-1-5-21-1272247940-4039150992-2221954607-1001,S-1-5-21-1272247940-4039150992-2221954607-1001,gabri,LAPTOP-NNQ5RT1T,0x1c56b3d,0x1ddc,C:\Windows\explorer.exe,
